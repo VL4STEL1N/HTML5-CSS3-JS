@@ -10,6 +10,11 @@
 <ul>
   <li>Mожет быть полезен в качестве краткого справочника по синтаксису</li>
   <li>Позволяет разработчикам легко освежить память и получить доступ к полезным советам и фрагментам кода.</li>
-  <li>Так же сатараюсь добавлять нову =ю информацию</li>
+  <li>Так же сатараюсь добавлять новую информацию</li>
 </ul>
+
+<p> Если заметили ошибку,недочет прошу обращаться сюда:</p> 
+
+<a href = "">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href = "">	![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+
 
