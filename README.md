@@ -13,7 +13,7 @@
   <li>Так же сатараюсь добавлять новую информацию</li>
 </ul>
 
-<p> Если заметили ошибку,недочет прошу обращаться сюда:</p> 
+<p> Если заметили ошибку,недочет, прошу обращаться сюда:</p> 
 
 <a href = "">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href = "">	![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
