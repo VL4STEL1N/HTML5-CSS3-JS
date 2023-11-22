@@ -15,6 +15,6 @@
 
 <p> Если заметили ошибку,недочет, прошу обращаться сюда:</p> 
 
-<a href = "">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href = "">	![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCXBJvrwzbmQvRjhJgQLTsVrcWLPxbXTCnvRcdQWsCpMgdCjZknhdbfcVjTpNmJKTKVzKZv">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href = "https://t.me/Prokaznikblack">	![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 
